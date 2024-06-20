@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python , MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://udari-adhikaram-portfolio-website.netlify.app/](https://udari-adhikaram-portfolio-website.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://github.com/UdariAdhikaram)
 
 - 💬 Ask me about ****Node.js, React, MongoDB... Java, Python or anything**
 
