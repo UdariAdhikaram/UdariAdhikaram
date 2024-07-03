@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [social-media-app](https://github.com/UdariAdhikaram/social-media-app)
 
-- 🌱 I’m currently learning **Python , MERN stack**
+- 🌱 I’m currently learning **Python , MERN stack , Spring Boot**
 
 - 👨‍💻 All of my projects are available at (https://github.com/UdariAdhikaram)
 
