@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ****Node.js, React, MongoDB... Java, Python or anything**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGH0WZgb8M/OK-gDcna5oUCJLwvSCwRMA/edit?utm_content=DAGH0WZgb8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGH0WZgb8M/OK-gDcna5oUCJLwvSCwRMA/edit?utm_content=DAGH0WZgb8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAGH0WZgb8M/OK-gDcna5oUCJLwvSCwRMA/edit?utm_content=DAGH0WZgb8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
