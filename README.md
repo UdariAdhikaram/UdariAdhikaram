@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udari Adhikaram</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [E-Commerce-Website-MERN([https://github.com/UdariAdhikaram/social-media-app](https://github.com/UdariAdhikaram/full-stack-e-commerce-website))]
+- 🔭 I’m currently working on E-Commerce-Website-MERN([https://github.com/UdariAdhikaram/social-media-app](https://github.com/UdariAdhikaram/full-stack-e-commerce-website))
 
 - 🌱 I’m currently learning **Python , MERN stack , Spring Boot**
 
