@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udari Adhikaram</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udariadhikaram&label=Profile%20views&color=0e75b6&style=flat" alt="udariadhikaram" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udariadhikaram" alt="udariadhikaram" /></a> </p>
-
-- 🔭 I’m currently working on [social-media-app](https://github.com/UdariAdhikaram/social-media-app)
+- 🔭 I’m currently working on [E-Commerce-Website-MERN]([https://github.com/UdariAdhikaram/social-media-app](https://github.com/UdariAdhikaram/full-stack-e-commerce-website))
 
 - 🌱 I’m currently learning **Python , MERN stack , Spring Boot**
 
