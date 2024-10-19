@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/UdariAdhikaram)
 
-- 💬 Ask me about ****Node.js, React, MongoDB... Java, Python or anything**
+- 💬 Ask me about **HTML, CSS, Java Script, Node.js, React, MongoDB, Java, MySQL or anything**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGH0WZgb8M/OK-gDcna5oUCJLwvSCwRMA/edit?utm_content=DAGH0WZgb8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
